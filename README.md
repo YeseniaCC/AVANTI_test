@@ -1,2 +1,0 @@
-# AVANTI
-Final Year Project 
